@@ -116,7 +116,7 @@ body{
     margin: 10px 0;
 }
 
-.works-list li span {}
+.works-list li span {font-size: 18px;}
 
 .works-list .link {
     display: flex;
